@@ -19,8 +19,8 @@
 - Grow a strong GitHub and resume portfolio
 
 ## 📫 Connect with me:
-- LinkedIn: [Your LinkedIn URL]
-- Email: [Your Email]
+- LinkedIn: www.linkedin.com/in/samala-shashanth-87962a283
+- Email: samalashashanth@gmail.com
 - GitHub: [https://github.com/ShashanthSamala](https://github.com/ShashanthSamala)
 
 ---

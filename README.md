@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Hi, I'm Shashanth Samala!
 
-<!--
-**ShashanthSamala/ShashanthSamala** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Beginner in Data Science | Exploring Python, GitHub, and Machine Learning
 
-Here are some ideas to get you started:
+## 🛠️ Projects I'm working on:
+- `python-basics` – learning Python step by step
+- `DS-Journey` – documenting my Data Science learning
+- More coming soon...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 I'm currently learning:
+- Git and GitHub
+- Python basics
+- Data Science Foundations (NumPy, Pandas, Matplotlib)
+- Problem-solving (LeetCode, HackerRank)
+
+## 📌 Goals:
+- Build 5+ mini projects by the end of this semester
+- Get an internship in Data Science or Cybersecurity by end of 2025
+- Grow a strong GitHub and resume portfolio
+
+## 📫 Connect with me:
+- LinkedIn: [Your LinkedIn URL]
+- Email: [Your Email]
+- GitHub: [https://github.com/ShashanthSamala](https://github.com/ShashanthSamala)
+
+---
+
+⭐ Always learning. Always building. Always sharing.

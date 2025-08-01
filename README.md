@@ -10,6 +10,7 @@
 ## 📚 I'm currently learning:
 - Git and GitHub
 - Python basics
+- Java basics
 - Data Science Foundations (NumPy, Pandas, Matplotlib)
 - Problem-solving (LeetCode, HackerRank)
 

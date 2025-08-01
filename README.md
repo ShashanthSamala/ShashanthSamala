@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shashanth Samala!
 
-🎯 Beginner in Data Science | Exploring Python, GitHub, and Machine Learning
+🎯 Beginner in Data Science | Exploring Python,Java, GitHub, and Machine Learning
 
 ## 🛠️ Projects I'm working on:
 - `python-basics` – learning Python step by step
